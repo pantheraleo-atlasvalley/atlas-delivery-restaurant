@@ -1,0 +1,1 @@
+2. 🍽️ Restaurant Dashboard Pannello completo con sidebar, ordini live, stato per ordine (Nuovo/Tillagas/Klar/Hämtad), toggle apertura/chiusura, gestione menu on/off, statistiche, pulsante "Simulera beställning" per testare nuovi ordini in arrivo.
